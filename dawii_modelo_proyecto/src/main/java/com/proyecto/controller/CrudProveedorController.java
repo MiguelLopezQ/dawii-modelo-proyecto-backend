@@ -85,7 +85,7 @@ public class CrudProveedorController {
 		}
 		return ResponseEntity.ok(salida);
 	}
-	
+	/*
 	@DeleteMapping("/eliminaProveedor/{id}")
 	@ResponseBody
 	public ResponseEntity<Map<String, Object>> eliminaDocente(@PathVariable("id") int id) {
@@ -108,5 +108,5 @@ public class CrudProveedorController {
 			salida.put("mensaje", "No se eliminó, ya que el registro esta relacionado.");
 		}
 		return ResponseEntity.ok(salida);
-	}
+	}*/
 }

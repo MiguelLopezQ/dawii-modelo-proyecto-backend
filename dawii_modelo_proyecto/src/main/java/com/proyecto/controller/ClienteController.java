@@ -69,7 +69,7 @@ public class ClienteController  {
 		
 		return ResponseEntity.ok(salida);
 	}
-	
+	/*
 	@GetMapping("/ConsultaCliente")
 	@ResponseBody
 	public ResponseEntity<Map<String, Object>> listaClienteNombreDniUbigeoyEstado(
@@ -97,6 +97,6 @@ public class ClienteController  {
 			}
 		return ResponseEntity.ok(salida);
 
-	}
+	}*/
 	
 }

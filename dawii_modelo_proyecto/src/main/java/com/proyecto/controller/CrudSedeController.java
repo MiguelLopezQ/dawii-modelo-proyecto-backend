@@ -83,6 +83,7 @@ public class CrudSedeController {
 		}
 		return ResponseEntity.ok(salida);
 	}
+	/*
 	@DeleteMapping("/eliminaSede/{id}")
 	@ResponseBody
 	public ResponseEntity<Map<String, Object>> eliminaSede(@PathVariable("id")int id) {
@@ -105,6 +106,6 @@ public class CrudSedeController {
 			salida.put("mensaje", "Error en la eliminación" + e.getMessage());
 		}
 		return ResponseEntity.ok(salida);
-	}
+	}*/
 	
 }
