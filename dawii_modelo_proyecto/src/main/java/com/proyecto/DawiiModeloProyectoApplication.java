@@ -12,7 +12,9 @@ public class DawiiModeloProyectoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DawiiModeloProyectoApplication.class, args);
 		System.out.println("ENTRANDO AL PROYECTO DAWIIMODELOPROYECTO");
+		System.out.println("ENTRANDO AL PROYECTO LOPEZ");
 	}
+	
 	@Bean
     public WebMvcConfigurer corsConfigurer() {
         return new WebMvcConfigurer() {
