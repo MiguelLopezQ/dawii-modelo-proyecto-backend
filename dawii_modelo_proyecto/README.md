@@ -3,4 +3,4 @@
 
 ## Autor 
 
-* **Jorge Jacinto ** - [jorgejacinto9701](https://github.com/jorgejacinto9701)
+* **Miguel Lopez ** - [Miguel Lopez](https://github.com/MiguelLopezQ)
